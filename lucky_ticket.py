@@ -14,6 +14,6 @@ nubmer5=end//10%10
 number6=end%10
 end_sum=nubmer4+nubmer5+number6
 if end_sum==start_sum:
-    print("Счастилвый")
+    print("Счастливый")
 else:
     print("Обычный")
